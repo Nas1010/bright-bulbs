@@ -6,12 +6,14 @@ const Head = () => {
           <section className='head'>
               <div className='container flexSB'>
                   <div className='logo'>
-                      <h1>Academia</h1>
+                      <h1>Bright Bulbs</h1>
                       <span>ONLINE EDUCATION AND LEARNING</span>
                   </div>
                   <div className='social'>
-                      <i className='fab fa-facebook-f'></i>
-                      <i className='fab fa-instagram'></i>
+                      <i className='fab fa-facebook-f icon'></i>
+                      <i className='fab fa-instagram icon'></i>
+                      <i className='fab fa-twitter icon'></i>
+                      <i className='fab fa-youtube icon'></i>
                   </div>
               </div>   
       </section>

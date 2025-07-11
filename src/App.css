@@ -10,3 +10,11 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.container {
+  max-width: 85%;
+  margin: auto;
+}
+.flexSB {
+  display:flex;
+  justify-content: space-between;
+}
