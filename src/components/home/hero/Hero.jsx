@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="container">
                   <div className="row">
                       <Title subtitle="WELCOME TO BRIGHT BULBS" title="Best Online Education"/>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+                      <p>Bright Bulbs is an online education platform that makes learning flexible, accessible, and inspiring. We help learners grow with high-quality courses they can access anytime, anywhere.</p>
                       <div className="button">
                           <button className="primary-btn">
                               GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
