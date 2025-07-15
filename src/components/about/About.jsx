@@ -1,11 +1,12 @@
 import React from 'react'
 import Back from '../common/back/Back.jsx'
+import AboutCard from './AboutCard.jsx'
 
 const About = () => {
     return (
-      <>
-            <h1>About</h1>    
-        <Back title =  'About us'/>    
+      <>   
+        <Back title='About us' />  
+        <AboutCard/>    
       </>
    
   )
